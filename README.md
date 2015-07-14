@@ -1,6 +1,6 @@
 ## Sensu-Plugins-irc
 
-[![Build Status](https://travis-ci.org/sensu-plugins/sensu-plugins-irc.svg?branch=master)](https://travis-ci.org/sensu-plugins/sensu-plugins-irc)
+[ ![Build Status](https://travis-ci.org/sensu-plugins/sensu-plugins-irc.svg?branch=master)](https://travis-ci.org/sensu-plugins/sensu-plugins-irc)
 [![Gem Version](https://badge.fury.io/rb/sensu-plugins-irc.svg)](http://badge.fury.io/rb/sensu-plugins-irc)
 [![Code Climate](https://codeclimate.com/github/sensu-plugins/sensu-plugins-irc/badges/gpa.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-irc)
 [![Test Coverage](https://codeclimate.com/github/sensu-plugins/sensu-plugins-irc/badges/coverage.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-irc)
