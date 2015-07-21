@@ -14,7 +14,12 @@
 # Alternately, Set the nickserv_command to specify the entire string
 # to send before joining.
 # An example file is contained in this irc handler directory.
-
+#
+# DEPENDENCIES:
+#   gem: sensu-plugin
+#   gem: carrier-pigeon
+#
+# LICENSE:
 #
 # Copyright 2011 James Turnbull <james@lovedthanlost.net>
 # Copyright 2012 AJ Christensen <aj@junglist.gen.nz>
